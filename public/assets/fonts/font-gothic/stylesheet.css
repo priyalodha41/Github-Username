@@ -1,0 +1,252 @@
+@font-face {
+    font-family: 'Science Gothic Condensed';
+    src: url('ScienceGothicCondensed-Bold.woff2') format('woff2'),
+        url('ScienceGothicCondensed-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic Condensed';
+    src: url('ScienceGothicCondensed-Black.woff2') format('woff2'),
+        url('ScienceGothicCondensed-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic Condensed';
+    src: url('ScienceGothicCondensed-ExtraBold.woff2') format('woff2'),
+        url('ScienceGothicCondensed-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic Condensed';
+    src: url('ScienceGothicCondensed-Medium.woff2') format('woff2'),
+        url('ScienceGothicCondensed-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic Condensed';
+    src: url('ScienceGothicCondensed-SemiBold.woff2') format('woff2'),
+        url('ScienceGothicCondensed-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic Condensed';
+    src: url('ScienceGothicCondensed-Regular.woff2') format('woff2'),
+        url('ScienceGothicCondensed-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic Expanded';
+    src: url('ScienceGothicExpanded-Bold.woff2') format('woff2'),
+        url('ScienceGothicExpanded-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic Expanded';
+    src: url('ScienceGothicExpanded-ExtraBold.woff2') format('woff2'),
+        url('ScienceGothicExpanded-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic SemiExpanded';
+    src: url('ScienceGothicSemiExpanded-Medium.woff2') format('woff2'),
+        url('ScienceGothicSemiExpanded-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic SemiExpanded';
+    src: url('ScienceGothicSemiExpanded-SemiBold.woff2') format('woff2'),
+        url('ScienceGothicSemiExpanded-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic SemiExpanded';
+    src: url('ScienceGothicSemiExpanded-Regular.woff2') format('woff2'),
+        url('ScienceGothicSemiExpanded-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic UltraCondensed';
+    src: url('ScienceGothicUltraCondensed-Medium.woff2') format('woff2'),
+        url('ScienceGothicUltraCondensed-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic UltraCondensed';
+    src: url('ScienceGothicUltraCondensed-ExtraBold.woff2') format('woff2'),
+        url('ScienceGothicUltraCondensed-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic UltraCondensed';
+    src: url('ScienceGothicUltraCondensed-Bold.woff2') format('woff2'),
+        url('ScienceGothicUltraCondensed-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic UltraCondensed';
+    src: url('ScienceGothicUltraCondensed-SemiBold.woff2') format('woff2'),
+        url('ScienceGothicUltraCondensed-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic UltraCondensed';
+    src: url('ScienceGothicUltraCondensed-Regular.woff2') format('woff2'),
+        url('ScienceGothicUltraCondensed-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic UltraExpanded';
+    src: url('ScienceGothicUltraExpanded-Regular.woff2') format('woff2'),
+        url('ScienceGothicUltraExpanded-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic UltraExpanded';
+    src: url('ScienceGothicUltraExpanded-ExtraBold.woff2') format('woff2'),
+        url('ScienceGothicUltraExpanded-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic UltraExpanded';
+    src: url('ScienceGothicUltraExpanded-Bold.woff2') format('woff2'),
+        url('ScienceGothicUltraExpanded-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic UltraExpanded';
+    src: url('ScienceGothicUltraExpanded-SemiBold.woff2') format('woff2'),
+        url('ScienceGothicUltraExpanded-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic';
+    src: url('ScienceGothic-Bold.woff2') format('woff2'),
+        url('ScienceGothic-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic';
+    src: url('ScienceGothic-Medium.woff2') format('woff2'),
+        url('ScienceGothic-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic';
+    src: url('ScienceGothic-ExtraBold.woff2') format('woff2'),
+        url('ScienceGothic-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic';
+    src: url('ScienceGothic-Regular.woff2') format('woff2'),
+        url('ScienceGothic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic';
+    src: url('ScienceGothic-SemiBold.woff2') format('woff2'),
+        url('ScienceGothic-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic SemiCondensed';
+    src: url('ScienceGothicSemiCondensed-ExtraBold.woff2') format('woff2'),
+        url('ScienceGothicSemiCondensed-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic SemiExpanded';
+    src: url('ScienceGothicSemiExpanded-SemiBold.woff2') format('woff2'),
+        url('ScienceGothicSemiExpanded-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Gothic UltraCondensed';
+    src: url('ScienceGothicUltraCondensed-ExtraBold.woff2') format('woff2'),
+        url('ScienceGothicUltraCondensed-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -27,17 +27,17 @@ const ProfileCard = ({ img, bio, name, followers, following, repos }) => {
   return (
   
     <div>
-     <div id="cardWrapper">
-        <div className="profile-card-dark" id="profileCard">
-            <Image img={img} />
-            <Name name={name} />
-            <Bio bio={bio} />
-            <Stats followers={followers} following={following} repos={repos} />
-        </div>
-     </div>
-     <div className="download-wrapper">
-          <DownloadCard downloadCard={downloadCard} />
+      <div id="cardWrapper">
+          <div className="profile-card-dark" id="profileCard">
+              <Image img={img} />
+              <Name name={name} />
+              <Bio bio={bio} />
+              <Stats followers={followers} following={following} repos={repos} />
+          </div>
       </div>
+      <div className="download-wrapper">
+            <DownloadCard downloadCard={downloadCard} />
+        </div>
 
     </div>
   );

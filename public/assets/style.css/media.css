@@ -1,0 +1,17 @@
+@media (max-width:440px) {
+    .profile-card-dark{
+        width: 310px !important;
+}
+.title {
+    font-size: 20px !important;
+}
+}
+
+@media (max-width:400px) {
+    .CardWrapper{
+        margin: 0px 5px !important;
+    }
+    .profile-card-dark{
+        width: 295px !important;
+}
+}

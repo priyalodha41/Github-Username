@@ -1,16 +1,52 @@
-# React + Vite
+# Github-Username 🔎  
+React-based GitHub Profile Viewer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A small web application built with **React + Vite** that lets you fetch and view GitHub user info: avatar, bio, follower count, repositories, and more — just by entering a GitHub username.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 What it Does  
+- Accepts a GitHub username input  
+- Fetches public profile data from GitHub API  
+- Displays user avatar, name, bio, number of followers & following, public repos, and list of repositories  
+- Clean, minimal UI for quick GitHub profile lookup without logging in  
 
-## React Compiler
+---
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+## 📁 Project Structure (Important Files & Folders)
 
-## Expanding the ESLint configuration
+Github-Username/
+├── public/ # public assets (favicon, index.html, etc.)
+├── src/ # source code (React components, pages, styles)
+├── package.json # project metadata & dependencies
+├── vite.config.js # Vite configuration
+├── .gitignore # ignored files/folders (node_modules, build, etc.)
+└── README.md # this documentation file
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+---
+
+## 🛠️ Setup & Run Locally  
+
+### Prerequisites  
+- Node.js (LTS recommended)  
+- npm or yarn  
+
+### Steps  
+```bash
+# 1. Clone the repository
+git clone https://github.com/priyalodha41/Github-Username.git
+
+# 2. Go into the project folder
+cd Github-Username
+
+# 3. Install dependencies
+npm install
+# or
+yarn install
+
+# 4. Start development server
+npm run dev
+# or
+yarn dev
+```
